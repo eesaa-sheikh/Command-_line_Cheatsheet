@@ -54,3 +54,10 @@ git status  <br> This shows details on what the workding directory looks like as
 ***(Staging lets us know which files are marked but isn't committed to the data base yet)***
 
 ![Picture_of_process](https://git-scm.com/book/en/v2/images/areas.png)
+
+git commit -m" "  <br> This command line captures the snapshopt of any changes in the stage segment.  It's considered to be "safe" versions as only the editor can change them
+
+git push  <br> uploads content to your Git hub Repository
+
+This is my basic cheat sheet with what I learnt on Tuesday 08/11/22 :)
+![programmer coding](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
