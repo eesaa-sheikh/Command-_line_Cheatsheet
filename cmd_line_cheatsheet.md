@@ -26,3 +26,13 @@ ls    <br> Shows all the files in this specific directory
 
 ls -a    <br> list entries with . and ..
 
+ls -s    <br> manages files by Size
+
+ls -la   <br> list directory in details alongside the hidden files <br><br>
+
+
+## File Directory management  <br><br>
+
+mkdir    <br> creates a folder
+
+rm -R    <br> Deletes a folders and what's inside of it ***(Be careful!)***
