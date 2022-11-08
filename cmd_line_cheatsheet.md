@@ -1,7 +1,7 @@
 # Command line Cheatsheet
 
 ## Basic intro <br><br>
-
+![Picture_of_Git](https://img1.wallspic.com/crops/2/7/8/5/5/155872/155872-github-logo-azure-aqua-turquoise-1920x1080.png)
 
 **This is the lab, made by Eesaa Sheikh for this Cheatsheet**
 
@@ -36,3 +36,7 @@ ls -la   <br> list directory in details alongside the hidden files <br><br>
 mkdir    <br> creates a folder
 
 rm -R    <br> Deletes a folders and what's inside of it ***(Be careful!)***
+
+touch. < doc format >    <br> Makes a file
+
+cp [file] [dir]    <br> copies file to the directory
