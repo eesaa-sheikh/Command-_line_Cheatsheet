@@ -40,3 +40,17 @@ rm -R    <br> Deletes a folders and what's inside of it ***(Be careful!)***
 touch. < doc format >    <br> Makes a file
 
 cp [file] [dir]    <br> copies file to the directory
+
+rm [file]    <br> Deletes a file perminantely ***(Be careful!)*** <br><br>
+
+## File Directory management  <br><br>
+
+git int    <br> creates a brand new Git repository
+
+git add .  <br> This adds a change in the current working directory into what is called the staging area.
+
+git status  <br> This shows details on what the workding directory looks like as well as the staging area. It basically lets you view what changes have and haven't been staged.
+
+***(Staging lets us know which files are marked but isn't committed to the data base yet)***
+
+![Picture_of_process](https://git-scm.com/book/en/v2/images/areas.png)
